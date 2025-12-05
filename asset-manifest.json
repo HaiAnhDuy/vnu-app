@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/vnu-app/static/css/main.75252a08.css",
+    "main.js": "/vnu-app/static/js/main.1fa46e4c.js",
+    "static/js/453.311b3dbc.chunk.js": "/vnu-app/static/js/453.311b3dbc.chunk.js",
+    "static/media/vnu-map.png": "/vnu-app/static/media/vnu-map.c9d21b55c5f63d9145dd.png",
+    "index.html": "/vnu-app/index.html",
+    "main.75252a08.css.map": "/vnu-app/static/css/main.75252a08.css.map",
+    "main.1fa46e4c.js.map": "/vnu-app/static/js/main.1fa46e4c.js.map",
+    "453.311b3dbc.chunk.js.map": "/vnu-app/static/js/453.311b3dbc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75252a08.css",
+    "static/js/main.1fa46e4c.js"
+  ]
+}
